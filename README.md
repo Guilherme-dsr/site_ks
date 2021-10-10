@@ -1,4 +1,4 @@
-# Moveit
+# King Sneakers 
 ## Sobre
   Projeto feito o objetivo avaliativo, durante a disciplina acadêmica de programação WEB do curso técnico.
 
